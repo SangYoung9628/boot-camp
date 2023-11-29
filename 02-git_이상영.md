@@ -107,7 +107,7 @@ git config --global user.email : 설정값 확인
 ### (6) `git log` :Commit 목록
 
 ---
-## II> 백업 Git 명령어
+## II. 백업 Git 명령어
 ### (7) `git remote`
 - 원격 저장소(Remote Repository)에 대한 정보
 - `git remote add` : 원격 저장소 추가
