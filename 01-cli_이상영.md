@@ -27,6 +27,7 @@ Command Line Interface
 
 ### (6)`rm -r [폴더명]`
 - `-r`:recursively(재귀적으로) 폴더를 삭제
+- `-rf`: 강제로 계속 진행 
 
 ### (7) `touch [파일명]`
 - `touch` : 파일 생성
